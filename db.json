@@ -92,12 +92,12 @@
       "msg": [
         {
           "sender": "FastVisa Support",
-          "message": "Hey there. Welcome to your inbox! Contact us for more information and help about anything! We’ll send you a response as soon as possible.",
+          "text": "Hey there. Welcome to your inbox! Contact us for more information and help about anything! We’ll send you a response as soon as possible.",
           "time": "19:32"
         },
         {
           "sender": "You",
-          "message": "Hi, I need help with something can you help me ?",
+          "text": "Hi, I need help with something can you help me ?",
           "time": "19:32"
         }
       ],
