@@ -1,0 +1,43 @@
+{
+  "listInbox": [
+    {
+      "id": 1,
+      "subject": "I-589-AMARKHIL, Obaidullah [Affirmative Filling with ZHN]",
+      "name": "Obaidullah Amarkhil",
+      "time": "January 1, 2021 19:32",
+      "msg": "Morning, I'll try to do them. Thanks",
+      "dot": true
+    },
+    {
+      "id": 2,
+      "subject": "1092020-Naturalization",
+      "name": "Cameron Phillips",
+      "time": "January 1, 2021 19:10",
+      "msg": "Please check this out!",
+      "dot": true
+    },
+    {
+      "id": 3,
+      "subject": "Jeanette Moraima Guaman Chamba (Hutto I-589) [ Hutto Follow Up - Brief Service ]",
+      "name": "Ellen",
+      "time": "02/06/2021 10:45",
+      "msg": "Hey, please read.",
+      "dot": false
+    },
+    {
+      "id": 4,
+      "subject": "8405-Diana SALAZAR MUNGUIA",
+      "name": "Cameron Phillips",
+      "time": "01/06/2021 12:19",
+      "msg": "I understand your initial concerns and thats very valid, Elizabeth. But you ...",
+      "dot": false
+    },
+    {
+      "id": 5,
+      "subject": "FastVisa Support",
+      "time": "01/06/2021 12:19",
+      "msg": "Hey there! Welcome to your inbox.",
+      "dot": false
+    }
+  ]
+}
