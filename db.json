@@ -50,8 +50,7 @@
           "date": "2021-06-09",
           "isRead": false
         }
-      ],
-      "dot": true
+      ]
     },
     {
       "id": 2,
@@ -68,8 +67,7 @@
           "date": "2021-01-01",
           "isRead": false
         }
-      ],
-      "dot": true
+      ]
     },
     {
       "id": 3,
@@ -86,8 +84,7 @@
           "date": "2021-06-02",
           "isRead": true
         }
-      ],
-      "dot": false
+      ]
     },
     {
       "id": 4,
@@ -104,8 +101,7 @@
           "date": "2021-06-01",
           "isRead": true
         }
-      ],
-      "dot": false
+      ]
     },
     {
       "id": 5,
@@ -126,8 +122,7 @@
           "date": "2021-06-01",
           "isRead": true
         }
-      ],
-      "dot": false
+      ]
     }
   ]
 }
