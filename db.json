@@ -6,37 +6,49 @@
       "group": "Affirmative Filling with ZHN",
       "participant": 3,
       "name": "Obaidullah Amarkhil",
-      "time": "January 1, 2021 19:32",
+      "time": "June 09, 2021 19:32",
       "msg": [
         {
           "sender": "Mary Hilda",
           "text": "Just Fill me in for his updates yea?",
-          "time": "19:32"
+          "time": "19:32",
+          "date": "2021-06-08",
+          "isRead": true
         },
         {
           "sender": "You",
           "text": "No worries. It will be completed ASAP. I've asked him yesterday.",
-          "time": "19:32"
+          "time": "19:32",
+          "date": "2021-06-08",
+          "isRead": true
         },
         {
           "sender": "Mary Hilda",
           "text": "Hello Obaidullah, I will be your case advisor for case #029290. I have assigned some homework for you to fill. Please keep up with the due dates. Should you have any questions, you can message me anytime. Thanks.",
-          "time": "19:32"
+          "time": "19:32",
+          "date": "2021-06-09",
+          "isRead": true
         },
         {
           "sender": "You",
           "text": "Please contact Mary for questions regarding the case bcs she will be managing your forms from now on! Thanks Mary.",
-          "time": "19:32"
+          "time": "19:32",
+          "date": "2021-06-09",
+          "isRead": true
         },
         {
           "sender": "Mary Hilda",
           "text": "Sure thing, Claren",
-          "time": "19:32"
+          "time": "19:32",
+          "date": "2021-06-09",
+          "isRead": true
         },
         {
           "sender": "Obaidullah Amarkhil",
           "text": "Morning. I’ll try to do them. Thanks",
-          "time": "19:32"
+          "time": "19:32",
+          "date": "2021-06-09",
+          "isRead": false
         }
       ],
       "dot": true
@@ -45,12 +57,16 @@
       "id": 2,
       "subject": "1092020-Naturalization",
       "name": "Cameron Phillips",
+      "group": "",
+      "participant": 3,
       "time": "January 1, 2021 19:10",
       "msg": [
         {
           "sender": "Cameron Phillips",
           "text": "Please check this out!",
-          "time": "19:10"
+          "time": "19:10",
+          "date": "2021-01-01",
+          "isRead": false
         }
       ],
       "dot": true
@@ -66,7 +82,9 @@
         {
           "sender": "Ellen",
           "text": "Hey, please read.",
-          "time": "10:45"
+          "time": "10:45",
+          "date": "2021-06-02",
+          "isRead": true
         }
       ],
       "dot": false
@@ -75,12 +93,16 @@
       "id": 4,
       "subject": "8405-Diana SALAZAR MUNGUIA",
       "name": "Cameron Phillips",
+      "group": "",
+      "participant": 3,
       "time": "01/06/2021 12:19",
       "msg": [
         {
           "sender": "Cameron Phillips",
           "text": "I understand your initial concerns and thats very valid, Elizabeth. But you ...",
-          "time": "12:19"
+          "time": "12:19",
+          "date": "2021-06-01",
+          "isRead": true
         }
       ],
       "dot": false
@@ -93,12 +115,16 @@
         {
           "sender": "FastVisa Support",
           "text": "Hey there. Welcome to your inbox! Contact us for more information and help about anything! We’ll send you a response as soon as possible.",
-          "time": "19:32"
+          "time": "19:32",
+          "date": "2021-06-01",
+          "isRead": true
         },
         {
           "sender": "You",
           "text": "Hi, I need help with something can you help me ?",
-          "time": "19:32"
+          "time": "19:32",
+          "date": "2021-06-01",
+          "isRead": true
         }
       ],
       "dot": false
